@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OurAutomationSuite" >
+   <test name="SeleniumPractice" >
+       <classes> 
+          <class name="LearnTestNg.BasicTestNg" />
+          <class name="LearnTestNg.BasicTestNgTestClass2" />
+          <class name="LearnTestNg.BasicTestNgTestClass3" />
+          <class name="LearnTestNg.Dependent" />
+          <class name="LearnTestNg.PIM" />
+          <class name="LearnTestNg.TestPrioirty" />
+       </classes>
+   </test>
+ </suite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OurAutomationSuite]">
+  <test thread-count="5" name="SeleniumPractice(failed)">
+    <classes>
+      <class name="LearnTestNg.Dependent">
+        <methods>
+          <include name="PIMFeature"/>
+          <include name="AdminFeature"/>
+          <include name="SignIn"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- LearnTestNg.Dependent -->
+      <class name="LearnTestNg.BasicTestNg">
+        <methods>
+          <include name="myAfterClass"/>
+          <include name="myAfterSuite"/>
+          <include name="myBeforeMethod"/>
+          <include name="mySecondTest"/>
+          <include name="myFirstTest"/>
+          <include name="myBeforeTestAnnotation"/>
+          <include name="myBeforeSuite"/>
+          <include name="myAfterTestAnnotation"/>
+          <include name="myBeforeClass"/>
+          <include name="myAfterMethod"/>
+        </methods>
+      </class> <!-- LearnTestNg.BasicTestNg -->
+    </classes>
+  </test> <!-- SeleniumPractice(failed) -->
+</suite> <!-- Failed suite [OurAutomationSuite] -->

@@ -1,0 +1,43 @@
+[2023-05-01 13:47:49,902] INFO  Running Test
+[2023-05-01 13:47:49,904] ERROR Failed test case
+[2023-05-01 13:48:58,155] INFO  Running Test
+[2023-05-01 13:49:11,057] INFO  Running Test
+[2023-05-01 13:49:11,057] ERROR Failed test case
+[2023-05-01 13:50:01,219] INFO  Running Test
+[2023-05-01 13:50:01,219] ERROR Failed test case
+[2023-05-01 13:50:49,313] INFO  Running Test
+[2023-05-01 13:50:49,313] INFO  Running Test
+[2023-05-01 13:50:49,313] INFO  Running Test
+[2023-05-01 13:50:49,314] ERROR Failed test case
+[2023-05-01 13:51:19,073] INFO  Running Test
+[2023-05-01 13:51:19,073] INFO  Running Test
+[2023-05-01 13:51:19,073] INFO  Running Test
+[2023-05-01 13:51:19,073] ERROR Failed test case
+[2023-05-01 13:51:41,892] INFO  Running Test
+[2023-05-01 13:51:41,892] INFO  Running Test
+[2023-05-01 13:51:41,892] INFO  Running Test
+[2023-05-01 13:51:41,892] ERROR Failed test case
+[2023-05-01 13:52:32,784] INFO  Running Test
+[2023-05-01 13:52:32,785] INFO  Running Test
+[2023-05-01 13:52:32,785] INFO  Running Test
+[2023-05-01 13:52:32,785] ERROR Failed test case
+[2023-05-01 13:53:15,397] INFO  Running Test
+[2023-05-01 13:53:15,398] INFO  Running Test
+[2023-05-01 13:53:15,398] INFO  Running Test
+[2023-05-01 13:53:15,398] ERROR Failed test case
+[2023-05-01 13:54:11,776] INFO  Running Test
+[2023-05-01 13:54:11,776] INFO  Running Test
+[2023-05-01 13:54:11,776] INFO  Running Test
+[2023-05-01 13:54:11,776] ERROR Failed test case
+[2023-05-01 13:57:35,769] INFO  Running Test
+[2023-05-01 13:57:35,770] INFO  Running Test
+[2023-05-01 13:57:35,770] INFO  Running Test
+[2023-05-01 13:57:35,770] ERROR Failed test case
+[2023-05-01 14:01:24,551] INFO  Running Test
+[2023-05-01 14:01:24,551] ERROR Failed test case
+[2023-05-01 14:03:55,671] INFO  Navigating to Orange HRM application
+[2023-05-01 14:03:59,357] INFO  rgba(255, 123, 29, 1)
+[2023-05-01 14:04:02,239] INFO  Navigating to Orange HRM application
+[2023-05-01 14:04:03,252] INFO  rgba(255, 123, 29, 1)
+[2023-05-01 14:04:06,011] INFO  Navigating to Orange HRM application
+[2023-05-01 14:04:07,124] INFO  rgba(255, 123, 29, 1)
