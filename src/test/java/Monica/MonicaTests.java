@@ -1,18 +1,19 @@
-package orangeHRMProject;
+package Monica;
 
 import org.testng.annotations.Test;
 
-public class loginTest {
-	
+public class MonicaTests {
+
 	@Test
-	public void myLoginTest() {
+	public void monicaLoginTest() {
 		System.out.println("First Git change");
 	}
 	
 	@Test
-	public void myLogoutTest() {
+	public void monicaLogoutTest() {
 		System.out.println("Logout Test");
 	}
 	
 
+	
 }
